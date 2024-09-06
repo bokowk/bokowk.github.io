@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bokowk.github.io/fhK/sitemap.fhK.gz
